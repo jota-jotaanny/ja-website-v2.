@@ -1,0 +1,11 @@
+ja-website-v2/
+│
+├── index.html
+├── style.css
+├── script.js
+├── /img
+│   ├── logo-chorizos.png
+│   ├── logo-morcillas.png
+│   ├── chorizos-bandeja.jpg
+│   ├── morcillas-bandeja.jpg
+│   └── fondo.jpg
